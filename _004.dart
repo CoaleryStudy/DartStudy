@@ -1,5 +1,6 @@
 void main() {
-  for(int i=0; i<5; i++) {
-    print('${i}');
+  var obj = [1, 2, 5, 4, 2, 7];
+  for(var o in obj) {
+    print(o);
   }
 }
