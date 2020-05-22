@@ -28,6 +28,7 @@ My dart study history.
 |_012.dart|Lambda Function|
 |_013.dart|Interface|
 |_014.dart|Class|
+|_015.dart|Static Class|
 
 ### Assistance Files
 
