@@ -1,10 +1,9 @@
 # DartStudy
 
-Dart 공부 내역을 올립니다!
-다른 언어에서도 볼 수 있는 특징은 올리지 않습니다!
+My dart study history.
 
 
-## 도움받은 곳
+## Study Location
 
 * [Tutorialspoint](https://www.tutorialspoint.com/dart_programming/dart_programming_environment.htm)
 
@@ -28,6 +27,7 @@ Dart 공부 내역을 올립니다!
 |_011.dart|Function|
 |_012.dart|Lambda Function|
 |_013.dart|Interface|
+|_014.dart|Class|
 
 ### Assistance Files
 
