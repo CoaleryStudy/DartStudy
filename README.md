@@ -31,6 +31,7 @@ My dart study history.
 |_015.dart|Static Class|
 |_016.dart|Set|
 |_017.dart|Exception Handling|
+|_018.dart|Custom Exception, Throwing an Exception|
 
 ### Assistance Files
 
