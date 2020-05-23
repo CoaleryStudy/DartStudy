@@ -32,6 +32,7 @@ My dart study history.
 |_016.dart|Set|
 |_017.dart|Exception Handling|
 |_018.dart|Custom Exception, Throwing an Exception|
+|_019.dart|Typedef|
 
 ### Assistance Files
 
