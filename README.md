@@ -39,5 +39,5 @@ My dart study history.
 
 |File Name|Description|
 |:---:|---|
-|SymbolAssistance.dart|Assistance file of what use Symbol.|
-|LibraryAssistance.dart|Assistance file of what use Library.|
+|_SymbolAssistance.dart|Assistance file of what use Symbol.|
+|_LibraryAssistance.dart|Assistance file of what use Library.|

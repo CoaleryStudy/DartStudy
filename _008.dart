@@ -1,6 +1,6 @@
 import 'dart:core';
 import 'dart:mirrors';
-import 'SymbolAssistance.dart';
+import '_SymbolAssistance.dart';
 
 void main() {
   Symbol lib = new Symbol("foo_lib");
